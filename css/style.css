@@ -1,0 +1,322 @@
+.navbar{
+    background-color: black;
+    color: white;
+    text-align: center !important;
+}
+.navbar-main{
+    margin-left: 15%;
+}
+a{
+    color: white !important;
+}
+.firstpage{
+    width: 100%;
+    height: 100vh;
+    background-color: black;
+}
+.firstpage>img{
+    margin-left: 30%;
+}
+.logo2{
+    position: relative;
+    bottom: 10%;
+    left: 9%;
+}
+.firstpage>h1{
+    color: white;
+    position: relative;
+    bottom: 21%;
+    left: 45%;
+}
+.firstpage>p{
+    color: white;
+    position: relative;
+    left: 45%;
+    bottom: 23%;
+    font-size: 150%;
+}
+.title{
+    color: white;
+    position: relative;
+bottom: 20%;
+left:38% !important;
+font-size: 200%;
+}
+/* second page start */
+.secondpage{
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    background-color: black;
+}
+.head-one{
+    color: white;
+    font-size: 500%;
+    position: relative;
+    top: 10%;
+    left: 30%;
+}
+.head-two{
+    color: white;
+    font-size: 250%;
+    position: relative;
+    top: 12%;
+    left: 25%;
+    text-transform: capitalize;
+}
+.button1{
+width: 15%;
+border-radius: 30px;
+position: relative;
+top: 15%;
+left: 30%;
+}
+.button2{
+    width: 8%;
+    border-radius: 25px;
+    position: relative;
+    top: 15%;
+    left: 32%;
+}
+.button2:hover{
+    background-color: rgb(87, 87, 236);
+    color: white;
+}
+.pro15{
+    width: 30%;
+    height: 50vh;
+    background-color: aquamarine;
+    position: relative;
+    top: 18%;
+    left: 30%;
+}
+ /* third page start */
+ .thirdpage{
+    width: 100%;
+    height: 100vh;
+    
+ }
+ .head-three{
+    color: black;
+    font-size: 500%;
+    position: relative;
+    top: 10%;
+    left: 35%;
+ }
+ .head-four{
+    color: black;
+    font-size: 250%;
+    position: relative;
+    top: 12%;
+    left: 25%;
+    text-transform: capitalize;
+ }
+ .button3{
+    width: 10%;
+    border-radius: 30px;
+position: relative;
+top: 15%;
+left: 30%;
+ }
+ .button4{
+    width: 8%;
+    border-radius: 25px;
+    position: relative;
+    top: 15%;
+    left: 32%;
+}
+.button4:hover{
+    background-color: rgb(87, 87, 236);
+    color: white;
+}
+.iphone15{
+    width: 50%;
+    height: 50vh;
+    /* background-color: aquamarine; */
+    position: relative;
+    top: 20%;
+    left: 20%;
+}
+ /* fourthpage start */
+ .fourthpage{
+    width: 100%;
+    height: 100vh;
+    margin-top: 10%;
+    /* background-color: yellow; */
+ }
+ .head-five{
+    color: black;
+    font-size: 500%;
+    position: relative;
+    top: 10%;
+    left: 30%;
+ }
+ .head-six{
+    color: black;
+    font-size: 250%;
+    position: relative;
+    top: 12%;
+    left: 30%;
+    text-transform: capitalize;
+ }
+ .button5{
+    width: 10%;
+    border-radius: 30px;
+position: relative;
+top: 15%;
+left: 30%;
+ }
+ .button6{
+    width: 8%;
+    border-radius: 25px;
+    position: relative;
+    top: 15%;
+    left: 32%;
+}
+.button6:hover{
+    background-color: rgb(87, 87, 236);
+    color: white;
+}
+/* fifth page start */
+.fifthpage{
+    width: 100%;
+    height: 100vh;
+    /* background-color: pink; */
+
+}
+.ipad{
+    width: 50%;
+    height: 50vh;
+    /* background-color: aquamarine; */
+    position: relative;
+    top: 20%;
+    left: 30%;
+}
+/* sixth page start */
+.sixthpage{
+    width: 100%;
+    height: 120vh;
+    margin-top: 20%;
+    /* background-color: orange; */
+
+}
+ /* seventh page start */
+ .seventhpage{
+    width: 100%;
+    height: 100vh;
+    margin-top: 10%;
+    /* background-color:skyblue; */
+
+}
+.text{
+    width: 80%;
+    height: 120vh;
+    margin-top: 10%;
+
+}
+.text>p{
+    color: rgb(97, 95, 95);
+}
+    /* Mac file start */
+.mac{
+    width: 100%;
+    height: 30vh;
+    /* background-color: orange; */
+}
+.mac>h1{
+    padding-top: 5%;
+    font-size: 400%;
+}
+.mac>p{
+    font-size: 150%;
+    position: relative;
+    left: 80%;
+    bottom: 45%;
+    
+}
+.video{
+    width: 100%;
+    height: 100vh;
+    border-radius: 20px;
+    /* background-color: yellow; */
+}
+.mac-cards{
+    width: 100%;
+    height: 100vh;
+    margin-top: 10%;
+   }
+.mac-cards>h1{
+    font-size: 300%;
+    padding-top: 5%;
+}
+.flex{
+    display: flex;
+    flex-direction: row;
+}
+.cards{
+    width: 30%;
+    height: 70vh;
+    margin-right: 5%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 20px;
+}
+.white>p{
+    color: white;
+}
+.white>h4{
+    color: white;
+}
+  /* mac file .thirdpage start */
+  .explore{
+    width: 100%;
+    height: 150vh;
+    /* background-color: yellow; */
+  }
+  .explore>h1{
+    font-size: 400%;
+    margin-left: 20%;
+  }
+  .buttons{
+    margin-top: 5%;
+    margin-left: 20%;
+  }
+  .pictures{
+    margin-top: 10%;
+padding-left: 15%;
+  }
+  .macbook{
+    width: 100%;
+    height: 40%;
+    display: flex;
+    flex-direction: row;
+     justify-content: space-evenly;
+    /* background-color: aqua; */
+  }
+  .book-text{
+    width: 30%;
+    height: 60vh;
+    /* background-color: pink; */
+  }
+/* fourth page start */
+.boxes{
+    width: 100%;
+    height: 100vh;
+    /* display: flex;
+    flex-direction: row;
+   justify-content: space-around; */
+    
+}
+.boxes>h1{
+    font-size: 300%;
+}
+.small-box{
+    width: 30%;
+    height: 30%;
+    display: inline-block;
+    margin-top: 5%;
+    margin-right: 3%;
+    padding: 2% 0% 0% 5%;
+    background-color:rgb(204, 233, 245);
+}
+/* fifth page start */
